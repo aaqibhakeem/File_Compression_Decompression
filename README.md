@@ -1,0 +1,2 @@
+# File_Compression_Decompression
+Minimalistic Compression/Decompression using Huffman Encoding Algorithm
